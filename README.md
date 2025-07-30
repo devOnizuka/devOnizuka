@@ -15,9 +15,9 @@ Não comecei a codar com 10 anos.
 Não faço mil projetos ao mesmo tempo.
 
 Sou alguém que está **aprendendo no tempo certo**, que erra bastante, mas não desiste fácil.  
-Amo ver ideias ganhando forma, tipo quando um código que parecia impossível… de repente roda. E dá orgulho.
+Amo ver ideias ganhando forma, tipo quando um código que parecia impossível… de repente roda. E dá orgulho...
 
-Estou estudando **Python** e **Java**, mexendo em projetos pequenos (como meu RPGzinho de texto, o *Project Isekai*), e entendendo aos poucos como esse mundo funciona.
+Estou estudando **Python** e **Java**, mexendo em projetos pequenos (como meu RPGzinho de texto, o *Project Isekai 2.0*), e entendendo aos poucos como esse mundo funciona.
 
 ---
 
