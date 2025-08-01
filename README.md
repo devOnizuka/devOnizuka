@@ -40,6 +40,11 @@ Se algum dia você se identificar com algo que eu fiz, ou quiser trocar uma idei
 Tô por aqui.
 
 ---
+## Contato
 
+-devonizuka11@gmail.com
+-www.linkedin.com/in/robertonizuka
+
+---
 🧡 Valeu por ter lido até aqui.  
 Mesmo.  
