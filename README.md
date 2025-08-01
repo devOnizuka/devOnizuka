@@ -42,9 +42,9 @@ Tô por aqui.
 ---
 ## Contato
 
-- devonizuka11@gmail.com
+- E-Mail: devonizuka11@gmail.com
 
-- www.linkedin.com/in/robertonizuka
+- Linkedin: www.linkedin.com/in/robertonizuka
 
 ---
 🧡 Valeu por ter lido até aqui.  
